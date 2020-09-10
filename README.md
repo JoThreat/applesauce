@@ -7,7 +7,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
-#Wtf is applesauce??
+# Wtf is applesauce??
 a wifi scanner/packet capture shell script that in theory will put the MacOs Airport Utility on offense 
 
 Built for speed & user friendliness 
