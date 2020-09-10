@@ -1,5 +1,21 @@
 #! /bin/bash
 
+echo"
+  ____  ____  ____  _        ___  _____  ____  __ __    __    ___
+ /    T|    \|    \| T      /  _]/ ___/ /    T|  T  T  /  ]  /  _]
+Y  o  ||  o  )  o  ) |     /  [_(   \_ Y  o  ||  |  | /  /  /  [_
+|     ||   _/|   _/| l___ Y    _]\__  T|     ||  |  |/  /  Y    _]
+|  _  ||  |  |  |  |     T|   [_ /  \ ||  _  ||  :  /   \_ |   [_
+|  |  ||  |  |  |  |     ||     T\    ||  |  |l     \     ||     T
+l__j__jl__j  l__j  l_____jl_____j \___jl__j__j \__,_j\____jl_____j by JoThreat
+
+
+"
+
+
+
+
+sleep 1
 #scans local networks & outputs list
 echo "[+] Scanning area for local networks"
 sleep 1
