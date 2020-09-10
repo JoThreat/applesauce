@@ -7,8 +7,8 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
-# applesauce
-a wifi scanner/packet capture shell script that in theory will put the MacOs Airport Utility on offense in every way possible 
+#Wtf is applesauce??
+a wifi scanner/packet capture shell script that in theory will put the MacOs Airport Utility on offense 
 
 Built for speed & user friendliness 
 
@@ -21,4 +21,4 @@ Built for speed & user friendliness
 
 
 [twitter]: https://twitter.com/Jo_Threat
-[applesauce]: 
+
